@@ -6,8 +6,8 @@
 
 ## Interesting Open source projects
 
-(MlFinLab)[https://github.com/hudson-and-thames/mlfinlab]
-(WSGIAdmin)[https://github.com/by-cx/pcp]
-(Monitor)[https://github.com/koala73/worldmonitor]
+- [MlFinLab](https://github.com/hudson-and-thames/mlfinlab)
+- [WSGIAdmin](https://github.com/by-cx/pcp)
+- [Monitor](https://github.com/koala73/worldmonitor)
 
-more options (here)[https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github] and (here too)[https://github.com/topics/opensource]
+More options [here](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github) and [here too](https://github.com/topics/opensource)
