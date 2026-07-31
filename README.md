@@ -4,6 +4,10 @@
 - 🌱 I’m currently learning about bio-gas and AI & Machine Learning.
 - 💞️ I’m looking to collaborate on open-source projects
 
+## My Projects
+
+- [Futuro Presente](https://futuropresente.org/)
+
 ## Interesting Open source projects
 
 - [MlFinLab](https://github.com/hudson-and-thames/mlfinlab)
